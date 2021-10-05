@@ -19,6 +19,7 @@ You must follow these steps for your solution to be accepted -- forks or other m
 
 ## Solution
 My solution was:
+
 `git clone original-repo-url`
 
 `cd challenge-git`
