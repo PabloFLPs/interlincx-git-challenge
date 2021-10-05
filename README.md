@@ -20,10 +20,17 @@ You must follow these steps for your solution to be accepted -- forks or other m
 ## Solution
 My solution was:
 `git clone original-repo-url`
+
 `cd challenge-git`
+
 `git checkout add-echo`
+
 `git checkout add-reverse`
+
 `git rebase --onto master add-echo add-reverse`
+
 `git log`
+
 `git remote set-url origin my-repo-url`
+
 `git push origin master`
